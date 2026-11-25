@@ -1,4 +1,4 @@
-# Out of Office — My Calendar Is in Charge
+# Out of Office — Answered in the Order Received
 
 [![make.fun](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8.svg)](https://make.fun/competitions/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
 [![rank](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/SARIP-afk/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8-entry/rank.svg)](https://make.fun/competitions/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
@@ -9,15 +9,17 @@ out-of-office reply to `/output/entry.txt`.
 
 ## The line
 
-> Out of office until Monday — my calendar is running my inbox now, and it has already cancelled every meeting I had next week.
+> Out of office until Monday — my inbox will be answered in the order received, which is to say, never.
 
-125 characters, 127 bytes, no trailing newline.
+101 characters, 103 bytes, no trailing newline.
 
-Why this line: it twists the usual away message instead of repeating it —
-the calendar, the thing that books your meetings, has taken over the inbox
-and is already cancelling them. The joke lands on the first read, it reads
-like a real auto-reply a person would gladly switch on, and it is not
-another beach, inbox-pile, or "limited access to email" line.
+Why this line: it hijacks the single most standard out-of-office sentence —
+"your email will be answered in the order received" — and flips it with one
+word at the very end. The laugh lands on the first read, on the last word,
+with no setup and nothing to explain. It opens exactly like a real auto-reply
+a person would gladly switch on, it is not another beach, inbox-pile, or
+"limited access to email" line, and at 101 characters every word earns its
+place.
 
 ## Run
 

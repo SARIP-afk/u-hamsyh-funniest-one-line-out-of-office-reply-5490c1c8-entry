@@ -6,8 +6,8 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "Out of office until Monday \u2014 my calendar is running my inbox now, " +
-  "and it has already cancelled every meeting I had next week.";
+  "Out of office until Monday \u2014 my inbox will be answered in the order " +
+  "received, which is to say, never.";
 
 // Gate mirror: the house gate accepts 1-160 characters of non-whitespace
 // text. Fail loudly here rather than write a line the gate would refuse.
